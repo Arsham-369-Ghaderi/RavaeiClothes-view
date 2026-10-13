@@ -89,14 +89,7 @@
 
 ## 🧰 تکنولوژی‌ها
 
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<div align="center"> <table> <tr> <td align="center" width="120"><img src="https://cdn.simpleicons.org/nextdotjs/6E6E6E" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind CSS</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion"/><br/><sub><b>Framer Motion</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma"/><br/><sub><b>Prisma</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="48" height="48" alt="SEO"/><br/><sub><b>SEO</b></sub></td> </tr> </table> </div> <br/>
 
 </div>
 

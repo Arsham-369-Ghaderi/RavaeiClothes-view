@@ -28,8 +28,8 @@
 | | |
 |---|---|
 | 🌐 **سایت زنده** | [ravaeiclothes.com](https://ravaeiclothes.com/) |
-| 👤 **نقش من** | طراح UI/UX و توسعه‌دهنده‌ی فرانت‌اند |
-| 🗓️ **وضعیت** | منتشرشده و فعال |
+| 👤 **نقش من** | طراح UI/UX و توسعه‌دهنده‌ی فرانت‌اند, همکاری بک اند و سئو فنی |
+| 🗓️ **وضعیت** | منتشرشده و فعال ✅ |
 
 <br/>
 
@@ -69,8 +69,6 @@
 - **تم روشن و ملایم** با پالت کرم و صورتی که تصویر لباس‌ها را برجسته می‌کند
 - **سئوی فنی (SEO)** و سرعت بارگذاری مناسب برای دیده‌شدن بهتر در گوگل
 
-> ✏️ _این فهرست را با امکانات دقیق فروشگاه خودت (مثلاً درگاه پرداخت، جستجو، علاقه‌مندی‌ها) تطبیق بده._
-
 <br/>
 
 ## 🎨 طراحی و هویت بصری
@@ -92,8 +90,6 @@
 <div align="center"> <table> <tr> <td align="center" width="120"><img src="https://cdn.simpleicons.org/nextdotjs/6E6E6E" width="48" height="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind CSS</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48" alt="Framer Motion"/><br/><sub><b>Framer Motion</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="48" height="48" alt="Prisma"/><br/><sub><b>Prisma</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td> <td align="center" width="120"><img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="48" height="48" alt="SEO"/><br/><sub><b>SEO</b></sub></td> </tr> </table> </div> <br/>
 
 </div>
-
-> ✏️ _فقط تکنولوژی‌هایی را نگه دار که واقعاً در این پروژه استفاده شده‌اند._
 
 <br/>
 

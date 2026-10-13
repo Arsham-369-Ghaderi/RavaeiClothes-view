@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="assets/screenshots/home.png" alt="صفحه‌ی اصلی" width="100%"/>
+<img src="assets/screenshots/products.png" alt="صفحه‌ی محصولات" width="100%"/>
 
 <sub>صفحه‌ی محصولات — دسکتاپ</sub>
 
@@ -45,11 +45,11 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/screenshots/products.png" alt="نسخه لپ تاپ"/></td>
+    <td width="50%"><img src="assets/screenshots/home.png" alt="نسخه لپ تاپ"/></td>
     <td width="50%"><img src="assets/screenshots/mobile.png" alt="نسخه‌ی موبایل"/></td>
   </tr>
   <tr>
-    <td align="center"><sub>لیست محصولات</sub></td>
+    <td align="center"><sub>نسخه لپ تاپ</sub></td>
     <td align="center"><sub>نسخه‌ی موبایل</sub></td>
   </tr>
 </table>

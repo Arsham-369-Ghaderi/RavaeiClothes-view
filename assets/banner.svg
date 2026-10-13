@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBF6EE"/>
+      <stop offset="0.6" stop-color="#F7EBE4"/>
+      <stop offset="1" stop-color="#F3DDD8"/>
+    </linearGradient>
+    <radialGradient id="blushA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1100 40) rotate(90) scale(320)">
+      <stop stop-color="#EBC3C0" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#EBC3C0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blushB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 430) rotate(90) scale(280)">
+      <stop stop-color="#E9D3BC" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#E9D3BC" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#B08968"/>
+      <stop offset="1" stop-color="#8A6648"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#blushA)"/>
+  <rect width="1280" height="420" fill="url(#blushB)"/>
+  <rect x="14.5" y="14.5" width="1251" height="391" rx="6" stroke="#B08968" stroke-opacity="0.35"/>
+
+  <!-- Decorative hangers / fabric lines (left) -->
+  <g stroke="#B08968" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round">
+    <path d="M70 92H590"/>
+    <path d="M150 92v18"/>
+    <path d="M330 92v18"/>
+    <path d="M500 92v18"/>
+  </g>
+
+  <!-- Dress 1 -->
+  <g transform="translate(110 110)">
+    <path d="M40 0c-10 0-16 8-16 18 0 8 4 14 8 18 -10 18-30 70-34 150h140c-4-80-24-132-34-150 4-4 8-10 8-18 0-10-6-18-16-18" fill="#F2D4D1" stroke="#B08968" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M24 66h64" stroke="#B08968" stroke-opacity="0.6" stroke-width="2"/>
+  </g>
+  <!-- Blouse -->
+  <g transform="translate(285 110)">
+    <path d="M10 10l30-10c4 12 14 18 28 18s24-6 28-18l30 10 24 36-26 14-10-14v110H-4V46L-16 60-40 46z" transform="translate(36 6) scale(0.85)" fill="#FBF6EE" stroke="#B08968" stroke-width="2.8" stroke-linejoin="round"/>
+  </g>
+  <!-- Dress 2 -->
+  <g transform="translate(450 110)">
+    <path d="M40 0c-10 0-16 8-16 18 0 8 4 14 8 18 -8 20-26 64-30 150h140c-4-86-22-130-30-150 4-4 8-10 8-18 0-10-6-18-16-18" fill="#E7D3BE" stroke="#B08968" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M18 100c30 14 60 14 92 0" stroke="#B08968" stroke-opacity="0.6" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Text (right, RTL) -->
+  <g direction="rtl">
+    <text x="1210" y="170" text-anchor="end" direction="rtl" font-family="Vazirmatn, Tahoma, 'Segoe UI', Arial, sans-serif" font-size="82" font-weight="800" fill="url(#accent)">کالکشن روائی</text>
+    <text x="1210" y="220" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="30" letter-spacing="8" fill="#6F5440">RAVAEI COLLECTION</text>
+    <text x="1210" y="272" text-anchor="end" direction="rtl" font-family="Vazirmatn, Tahoma, 'Segoe UI', Arial, sans-serif" font-size="24" fill="#8A7766">فروشگاه آنلاین پوشاک؛ طراحی شده با ظرافت و سادگی</text>
+
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">
+      <rect x="1090" y="306" width="120" height="36" rx="18" fill="#B08968" fill-opacity="0.12" stroke="#B08968" stroke-opacity="0.6"/>
+      <text x="1150" y="329" text-anchor="middle" fill="#8A6648">Next.js</text>
+      <rect x="950" y="306" width="120" height="36" rx="18" fill="#EBC3C0" fill-opacity="0.35" stroke="#C99A97" stroke-opacity="0.8"/>
+      <text x="1010" y="329" text-anchor="middle" fill="#9A6A67">E-Commerce</text>
+      <rect x="810" y="306" width="120" height="36" rx="18" fill="#B08968" fill-opacity="0.12" stroke="#B08968" stroke-opacity="0.6"/>
+      <text x="870" y="329" text-anchor="middle" fill="#8A6648">UI / UX</text>
+    </g>
+  </g>
+</svg>

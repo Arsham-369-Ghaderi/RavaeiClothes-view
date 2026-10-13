@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="کالکشن روائی — Ravaei Collection" width="100%"/>
+<img src="assets/redmi-image.png" alt="کالکشن روائی — Ravaei Collection" width="100%"/>
 
 <br/>
 

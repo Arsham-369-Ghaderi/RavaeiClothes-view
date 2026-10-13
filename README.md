@@ -39,13 +39,13 @@
 
 <img src="assets/screenshots/home.png" alt="صفحه‌ی اصلی" width="100%"/>
 
-<sub>صفحه‌ی اصلی — دسکتاپ</sub>
+<sub>صفحه‌ی محصولات — دسکتاپ</sub>
 
 <br/><br/>
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/screenshots/products.png" alt="لیست محصولات"/></td>
+    <td width="50%"><img src="assets/screenshots/products.png" alt="نسخه لپ تاپ"/></td>
     <td width="50%"><img src="assets/screenshots/mobile.png" alt="نسخه‌ی موبایل"/></td>
   </tr>
   <tr>
